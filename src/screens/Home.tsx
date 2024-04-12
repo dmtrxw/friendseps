@@ -65,7 +65,7 @@ function Home({ onGenerateRandomEpisode }: Props) {
                 className="inline-flex justify-center gap-x-2 rounded border border-amber-600 px-4 py-2 font-bold
                          text-black hover:bg-amber-700 hover:text-white focus:outline-none focus:ring 
                          active:bg-amber-800 active:text-white">
-                I want to smile ☺️
+                I want to smile 😊
             </button>
             <button
                 onClick={() => generateRandomEpisodeByMood('cry')}
